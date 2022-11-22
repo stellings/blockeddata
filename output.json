@@ -1,0 +1,1487 @@
+[
+    {
+        "fga_after": 141,
+        "fga_before": 152,
+        "fga_overall": 1335,
+        "fgp_after": 0.45390070921985815,
+        "fgp_before": 0.47368421052631576,
+        "fgp_overall": 0.44719101123595506,
+        "name": "LeBron James"
+    },
+    {
+        "fga_after": 143,
+        "fga_before": 149,
+        "fga_overall": 845,
+        "fgp_after": 0.3916083916083916,
+        "fgp_before": 0.4429530201342282,
+        "fgp_overall": 0.4414201183431953,
+        "name": "Paul Pierce"
+    },
+    {
+        "fga_after": 285,
+        "fga_before": 256,
+        "fga_overall": 1157,
+        "fgp_after": 0.4421052631578947,
+        "fgp_before": 0.4375,
+        "fgp_overall": 0.45375972342264476,
+        "name": "Dwyane Wade"
+    },
+    {
+        "fga_after": 38,
+        "fga_before": 52,
+        "fga_overall": 916,
+        "fgp_after": 0.5,
+        "fgp_before": 0.38461538461538464,
+        "fgp_overall": 0.4781659388646288,
+        "name": "Ray Allen"
+    },
+    {
+        "fga_after": 33,
+        "fga_before": 29,
+        "fga_overall": 393,
+        "fgp_after": 0.45454545454545453,
+        "fgp_before": 0.41379310344827586,
+        "fgp_overall": 0.4300254452926209,
+        "name": "James Jones"
+    },
+    {
+        "fga_after": 26,
+        "fga_before": 49,
+        "fga_overall": 586,
+        "fgp_after": 0.5,
+        "fgp_before": 0.3877551020408163,
+        "fgp_overall": 0.4197952218430034,
+        "name": "Glen Davis"
+    },
+    {
+        "fga_after": 105,
+        "fga_before": 101,
+        "fga_overall": 938,
+        "fgp_after": 0.3904761904761905,
+        "fgp_before": 0.48514851485148514,
+        "fgp_overall": 0.4573560767590618,
+        "name": "Chris Bosh"
+    },
+    {
+        "fga_after": 113,
+        "fga_before": 91,
+        "fga_overall": 750,
+        "fgp_after": 0.415929203539823,
+        "fgp_before": 0.5054945054945055,
+        "fgp_overall": 0.4826666666666667,
+        "name": "Kevin Garnett"
+    },
+    {
+        "fga_after": 43,
+        "fga_before": 46,
+        "fga_overall": 225,
+        "fgp_after": 0.5116279069767442,
+        "fgp_before": 0.45652173913043476,
+        "fgp_overall": 0.4488888888888889,
+        "name": "Zydrunas Ilgauskas"
+    },
+    {
+        "fga_after": 49,
+        "fga_before": 85,
+        "fga_overall": 648,
+        "fgp_after": 0.42857142857142855,
+        "fgp_before": 0.4470588235294118,
+        "fgp_overall": 0.41358024691358025,
+        "name": "Nicolas Batum"
+    },
+    {
+        "fga_after": 58,
+        "fga_before": 68,
+        "fga_overall": 905,
+        "fgp_after": 0.46551724137931033,
+        "fgp_before": 0.4852941176470588,
+        "fgp_overall": 0.4154696132596685,
+        "name": "Jason Richardson"
+    },
+    {
+        "fga_after": 39,
+        "fga_before": 60,
+        "fga_overall": 462,
+        "fgp_after": 0.28205128205128205,
+        "fgp_before": 0.38333333333333336,
+        "fgp_overall": 0.3852813852813853,
+        "name": "Brandon Roy"
+    },
+    {
+        "fga_after": 57,
+        "fga_before": 91,
+        "fga_overall": 599,
+        "fgp_after": 0.38596491228070173,
+        "fgp_before": 0.4065934065934066,
+        "fgp_overall": 0.4357262103505843,
+        "name": "Grant Hill"
+    },
+    {
+        "fga_after": 80,
+        "fga_before": 71,
+        "fga_overall": 676,
+        "fgp_after": 0.4375,
+        "fgp_before": 0.4788732394366197,
+        "fgp_overall": 0.42159763313609466,
+        "name": "Hedo Turkoglu"
+    },
+    {
+        "fga_after": 50,
+        "fga_before": 50,
+        "fga_overall": 182,
+        "fgp_after": 0.38,
+        "fgp_before": 0.28,
+        "fgp_overall": 0.32967032967032966,
+        "name": "Marcus Camby"
+    },
+    {
+        "fga_after": 26,
+        "fga_before": 32,
+        "fga_overall": 644,
+        "fgp_after": 0.38461538461538464,
+        "fgp_before": 0.46875,
+        "fgp_overall": 0.4161490683229814,
+        "name": "Andre Miller"
+    },
+    {
+        "fga_after": 233,
+        "fga_before": 190,
+        "fga_overall": 1145,
+        "fgp_after": 0.44635193133047213,
+        "fgp_before": 0.4421052631578947,
+        "fgp_overall": 0.4943231441048035,
+        "name": "LaMarcus Aldridge"
+    },
+    {
+        "fga_after": 38,
+        "fga_before": 31,
+        "fga_overall": 516,
+        "fgp_after": 0.3157894736842105,
+        "fgp_before": 0.41935483870967744,
+        "fgp_overall": 0.34108527131782945,
+        "name": "Rudy Fernandez"
+    },
+    {
+        "fga_after": 43,
+        "fga_before": 45,
+        "fga_overall": 365,
+        "fgp_after": 0.5348837209302325,
+        "fgp_before": 0.4888888888888889,
+        "fgp_overall": 0.4410958904109589,
+        "name": "Dante Cunningham"
+    },
+    {
+        "fga_after": 200,
+        "fga_before": 142,
+        "fga_overall": 742,
+        "fgp_after": 0.44,
+        "fgp_before": 0.39436619718309857,
+        "fgp_overall": 0.42318059299191374,
+        "name": "Channing Frye"
+    },
+    {
+        "fga_after": 141,
+        "fga_before": 48,
+        "fga_overall": 615,
+        "fgp_after": 0.475177304964539,
+        "fgp_before": 0.4166666666666667,
+        "fgp_overall": 0.46016260162601624,
+        "name": "Lamar Odom"
+    },
+    {
+        "fga_after": 208,
+        "fga_before": 194,
+        "fga_overall": 767,
+        "fgp_after": 0.5048076923076923,
+        "fgp_before": 0.5103092783505154,
+        "fgp_overall": 0.5058670143415906,
+        "name": "Pau Gasol"
+    },
+    {
+        "fga_after": 50,
+        "fga_before": 63,
+        "fga_overall": 991,
+        "fgp_after": 0.36,
+        "fgp_before": 0.5396825396825397,
+        "fgp_overall": 0.4026236125126135,
+        "name": "Kevin Martin"
+    },
+    {
+        "fga_after": 69,
+        "fga_before": 62,
+        "fga_overall": 513,
+        "fgp_after": 0.2898550724637681,
+        "fgp_before": 0.3387096774193548,
+        "fgp_overall": 0.35477582846003897,
+        "name": "Ron Artest"
+    },
+    {
+        "fga_after": 69,
+        "fga_before": 66,
+        "fga_overall": 1546,
+        "fgp_after": 0.4057971014492754,
+        "fgp_before": 0.48484848484848486,
+        "fgp_overall": 0.4424320827943079,
+        "name": "Kobe Bryant"
+    },
+    {
+        "fga_after": 66,
+        "fga_before": 112,
+        "fga_overall": 753,
+        "fgp_after": 0.45454545454545453,
+        "fgp_before": 0.49107142857142855,
+        "fgp_overall": 0.4900398406374502,
+        "name": "Luis Scola"
+    },
+    {
+        "fga_after": 30,
+        "fga_before": 27,
+        "fga_overall": 443,
+        "fgp_after": 0.5,
+        "fgp_before": 0.4074074074074074,
+        "fgp_overall": 0.4153498871331828,
+        "name": "Courtney Lee"
+    },
+    {
+        "fga_after": 76,
+        "fga_before": 93,
+        "fga_overall": 443,
+        "fgp_after": 0.5,
+        "fgp_before": 0.41935483870967744,
+        "fgp_overall": 0.4153498871331828,
+        "name": "Shane Battier"
+    },
+    {
+        "fga_after": 62,
+        "fga_before": 28,
+        "fga_overall": 215,
+        "fgp_after": 0.3064516129032258,
+        "fgp_before": 0.35714285714285715,
+        "fgp_overall": 0.3674418604651163,
+        "name": "Jamario Moon"
+    },
+    {
+        "fga_after": 56,
+        "fga_before": 84,
+        "fga_overall": 527,
+        "fgp_after": 0.375,
+        "fgp_before": 0.4523809523809524,
+        "fgp_overall": 0.428842504743833,
+        "name": "J.J. Hickson"
+    },
+    {
+        "fga_after": 54,
+        "fga_before": 67,
+        "fga_overall": 548,
+        "fgp_after": 0.5555555555555556,
+        "fgp_before": 0.3582089552238806,
+        "fgp_overall": 0.4197080291970803,
+        "name": "Daniel Gibson"
+    },
+    {
+        "fga_after": 57,
+        "fga_before": 63,
+        "fga_overall": 695,
+        "fgp_after": 0.3684210526315789,
+        "fgp_before": 0.36507936507936506,
+        "fgp_overall": 0.3971223021582734,
+        "name": "Antawn Jamison"
+    },
+    {
+        "fga_after": 55,
+        "fga_before": 45,
+        "fga_overall": 633,
+        "fgp_after": 0.36363636363636365,
+        "fgp_before": 0.4222222222222222,
+        "fgp_overall": 0.3696682464454976,
+        "name": "Travis Outlaw"
+    },
+    {
+        "fga_after": 67,
+        "fga_before": 43,
+        "fga_overall": 375,
+        "fgp_after": 0.31343283582089554,
+        "fgp_before": 0.37209302325581395,
+        "fgp_overall": 0.39466666666666667,
+        "name": "Austin Daye"
+    },
+    {
+        "fga_after": 194,
+        "fga_before": 175,
+        "fga_overall": 835,
+        "fgp_after": 0.4896907216494845,
+        "fgp_before": 0.52,
+        "fgp_overall": 0.49101796407185627,
+        "name": "Brook Lopez"
+    },
+    {
+        "fga_after": 105,
+        "fga_before": 62,
+        "fga_overall": 778,
+        "fgp_after": 0.4095238095238095,
+        "fgp_before": 0.3387096774193548,
+        "fgp_overall": 0.4203084832904884,
+        "name": "Tayshaun Prince"
+    },
+    {
+        "fga_after": 31,
+        "fga_before": 26,
+        "fga_overall": 203,
+        "fgp_after": 0.41935483870967744,
+        "fgp_before": 0.5,
+        "fgp_overall": 0.5369458128078818,
+        "name": "Derrick Favors"
+    },
+    {
+        "fga_after": 49,
+        "fga_before": 50,
+        "fga_overall": 655,
+        "fgp_after": 0.3877551020408163,
+        "fgp_before": 0.5,
+        "fgp_overall": 0.44580152671755724,
+        "name": "Ben Gordon"
+    },
+    {
+        "fga_after": 64,
+        "fga_before": 102,
+        "fga_overall": 552,
+        "fgp_after": 0.3125,
+        "fgp_before": 0.46078431372549017,
+        "fgp_overall": 0.4311594202898551,
+        "name": "Charlie Villanueva"
+    },
+    {
+        "fga_after": 56,
+        "fga_before": 31,
+        "fga_overall": 404,
+        "fgp_after": 0.35714285714285715,
+        "fgp_before": 0.3870967741935484,
+        "fgp_overall": 0.4158415841584158,
+        "name": "Tracy McGrady"
+    },
+    {
+        "fga_after": 40,
+        "fga_before": 42,
+        "fga_overall": 313,
+        "fgp_after": 0.475,
+        "fgp_before": 0.42857142857142855,
+        "fgp_overall": 0.5015974440894568,
+        "name": "Kris Humphries"
+    },
+    {
+        "fga_after": 162,
+        "fga_before": 232,
+        "fga_overall": 803,
+        "fgp_after": 0.4506172839506173,
+        "fgp_before": 0.5086206896551724,
+        "fgp_overall": 0.5006226650062267,
+        "name": "Elton Brand"
+    },
+    {
+        "fga_after": 106,
+        "fga_before": 63,
+        "fga_overall": 767,
+        "fgp_after": 0.4339622641509434,
+        "fgp_before": 0.47619047619047616,
+        "fgp_overall": 0.43285528031290743,
+        "name": "Jrue Holiday"
+    },
+    {
+        "fga_after": 74,
+        "fga_before": 55,
+        "fga_overall": 372,
+        "fgp_after": 0.4189189189189189,
+        "fgp_before": 0.5272727272727272,
+        "fgp_overall": 0.44623655913978494,
+        "name": "Spencer Hawes"
+    },
+    {
+        "fga_after": 29,
+        "fga_before": 36,
+        "fga_overall": 659,
+        "fgp_after": 0.3103448275862069,
+        "fgp_before": 0.5277777777777778,
+        "fgp_overall": 0.3930197268588771,
+        "name": "Lou Williams"
+    },
+    {
+        "fga_after": 93,
+        "fga_before": 116,
+        "fga_overall": 639,
+        "fgp_after": 0.3118279569892473,
+        "fgp_before": 0.4482758620689655,
+        "fgp_overall": 0.4084507042253521,
+        "name": "Andre Iguodala"
+    },
+    {
+        "fga_after": 112,
+        "fga_before": 100,
+        "fga_overall": 980,
+        "fgp_after": 0.38392857142857145,
+        "fgp_before": 0.43,
+        "fgp_overall": 0.4459183673469388,
+        "name": "Andrea Bargnani"
+    },
+    {
+        "fga_after": 34,
+        "fga_before": 51,
+        "fga_overall": 807,
+        "fgp_after": 0.35294117647058826,
+        "fgp_before": 0.39215686274509803,
+        "fgp_overall": 0.40272614622057,
+        "name": "Raymond Felton"
+    },
+    {
+        "fga_after": 331,
+        "fga_before": 225,
+        "fga_overall": 1017,
+        "fgp_after": 0.49244712990936557,
+        "fgp_before": 0.5022222222222222,
+        "fgp_overall": 0.4837758112094395,
+        "name": "Amare Stoudemire"
+    },
+    {
+        "fga_after": 204,
+        "fga_before": 166,
+        "fga_overall": 788,
+        "fgp_after": 0.4117647058823529,
+        "fgp_before": 0.4036144578313253,
+        "fgp_overall": 0.41116751269035534,
+        "name": "Wilson Chandler"
+    },
+    {
+        "fga_after": 26,
+        "fga_before": 65,
+        "fga_overall": 858,
+        "fgp_after": 0.5384615384615384,
+        "fgp_before": 0.5384615384615384,
+        "fgp_overall": 0.47435897435897434,
+        "name": "DeMar DeRozan"
+    },
+    {
+        "fga_after": 52,
+        "fga_before": 46,
+        "fga_overall": 245,
+        "fgp_after": 0.5192307692307693,
+        "fgp_before": 0.4782608695652174,
+        "fgp_overall": 0.5469387755102041,
+        "name": "Amir Johnson"
+    },
+    {
+        "fga_after": 89,
+        "fga_before": 175,
+        "fga_overall": 771,
+        "fgp_after": 0.4606741573033708,
+        "fgp_before": 0.5428571428571428,
+        "fgp_overall": 0.5006485084306096,
+        "name": "David West"
+    },
+    {
+        "fga_after": 78,
+        "fga_before": 87,
+        "fga_overall": 590,
+        "fgp_after": 0.2564102564102564,
+        "fgp_before": 0.2413793103448276,
+        "fgp_overall": 0.3271186440677966,
+        "name": "Trevor Ariza"
+    },
+    {
+        "fga_after": 70,
+        "fga_before": 98,
+        "fga_overall": 721,
+        "fgp_after": 0.4142857142857143,
+        "fgp_before": 0.5612244897959183,
+        "fgp_overall": 0.4147018030513176,
+        "name": "John Salmons"
+    },
+    {
+        "fga_after": 65,
+        "fga_before": 83,
+        "fga_overall": 688,
+        "fgp_after": 0.26153846153846155,
+        "fgp_before": 0.42168674698795183,
+        "fgp_overall": 0.35755813953488375,
+        "name": "Brandon Jennings"
+    },
+    {
+        "fga_after": 33,
+        "fga_before": 33,
+        "fga_overall": 546,
+        "fgp_after": 0.45454545454545453,
+        "fgp_before": 0.42424242424242425,
+        "fgp_overall": 0.4340659340659341,
+        "name": "Willie Green"
+    },
+    {
+        "fga_after": 67,
+        "fga_before": 36,
+        "fga_overall": 183,
+        "fgp_after": 0.4925373134328358,
+        "fgp_before": 0.3611111111111111,
+        "fgp_overall": 0.40437158469945356,
+        "name": "Larry Sanders"
+    },
+    {
+        "fga_after": 55,
+        "fga_before": 50,
+        "fga_overall": 187,
+        "fgp_after": 0.509090909090909,
+        "fgp_before": 0.48,
+        "fgp_overall": 0.44385026737967914,
+        "name": "Andrew Bogut"
+    },
+    {
+        "fga_after": 139,
+        "fga_before": 101,
+        "fga_overall": 987,
+        "fgp_after": 0.460431654676259,
+        "fgp_before": 0.40594059405940597,
+        "fgp_overall": 0.4397163120567376,
+        "name": "Michael Beasley"
+    },
+    {
+        "fga_after": 38,
+        "fga_before": 69,
+        "fga_overall": 511,
+        "fgp_after": 0.3684210526315789,
+        "fgp_before": 0.4782608695652174,
+        "fgp_overall": 0.44227005870841485,
+        "name": "Carl Landry"
+    },
+    {
+        "fga_after": 81,
+        "fga_before": 97,
+        "fga_overall": 283,
+        "fgp_after": 0.48148148148148145,
+        "fgp_before": 0.4536082474226804,
+        "fgp_overall": 0.48056537102473496,
+        "name": "Darko Milicic"
+    },
+    {
+        "fga_after": 53,
+        "fga_before": 35,
+        "fga_overall": 623,
+        "fgp_after": 0.5094339622641509,
+        "fgp_before": 0.5142857142857142,
+        "fgp_overall": 0.4301765650080257,
+        "name": "Kevin Love"
+    },
+    {
+        "fga_after": 113,
+        "fga_before": 135,
+        "fga_overall": 628,
+        "fgp_after": 0.3274336283185841,
+        "fgp_before": 0.3925925925925926,
+        "fgp_overall": 0.4028662420382166,
+        "name": "DeMarcus Cousins"
+    },
+    {
+        "fga_after": 113,
+        "fga_before": 82,
+        "fga_overall": 395,
+        "fgp_after": 0.36283185840707965,
+        "fgp_before": 0.3780487804878049,
+        "fgp_overall": 0.389873417721519,
+        "name": "Francisco Garcia"
+    },
+    {
+        "fga_after": 32,
+        "fga_before": 37,
+        "fga_overall": 304,
+        "fgp_after": 0.3125,
+        "fgp_before": 0.3783783783783784,
+        "fgp_overall": 0.3651315789473684,
+        "name": "Donte Greene"
+    },
+    {
+        "fga_after": 102,
+        "fga_before": 125,
+        "fga_overall": 601,
+        "fgp_after": 0.43137254901960786,
+        "fgp_before": 0.424,
+        "fgp_overall": 0.3793677204658902,
+        "name": "Wesley Johnson"
+    },
+    {
+        "fga_after": 53,
+        "fga_before": 49,
+        "fga_overall": 328,
+        "fgp_after": 0.4716981132075472,
+        "fgp_before": 0.42857142857142855,
+        "fgp_overall": 0.4451219512195122,
+        "name": "Jason Thompson"
+    },
+    {
+        "fga_after": 332,
+        "fga_before": 191,
+        "fga_overall": 1367,
+        "fgp_after": 0.42771084337349397,
+        "fgp_before": 0.38219895287958117,
+        "fgp_overall": 0.40965618141916604,
+        "name": "Derrick Rose"
+    },
+    {
+        "fga_after": 31,
+        "fga_before": 30,
+        "fga_overall": 273,
+        "fgp_after": 0.5483870967741935,
+        "fgp_before": 0.4666666666666667,
+        "fgp_overall": 0.39194139194139194,
+        "name": "Thabo Sefolosha"
+    },
+    {
+        "fga_after": 127,
+        "fga_before": 119,
+        "fga_overall": 998,
+        "fgp_after": 0.4094488188976378,
+        "fgp_before": 0.42857142857142855,
+        "fgp_overall": 0.41382765531062127,
+        "name": "Luol Deng"
+    },
+    {
+        "fga_after": 345,
+        "fga_before": 375,
+        "fga_overall": 1644,
+        "fgp_after": 0.42318840579710143,
+        "fgp_before": 0.448,
+        "fgp_overall": 0.4367396593673966,
+        "name": "Kevin Durant"
+    },
+    {
+        "fga_after": 70,
+        "fga_before": 68,
+        "fga_overall": 607,
+        "fgp_after": 0.37142857142857144,
+        "fgp_before": 0.38235294117647056,
+        "fgp_overall": 0.3953871499176277,
+        "name": "Jeff Green"
+    },
+    {
+        "fga_after": 72,
+        "fga_before": 59,
+        "fga_overall": 1131,
+        "fgp_after": 0.375,
+        "fgp_before": 0.3898305084745763,
+        "fgp_overall": 0.39964633068081346,
+        "name": "Russell Westbrook"
+    },
+    {
+        "fga_after": 30,
+        "fga_before": 30,
+        "fga_overall": 315,
+        "fgp_after": 0.4666666666666667,
+        "fgp_before": 0.5666666666666667,
+        "fgp_overall": 0.4222222222222222,
+        "name": "Ronnie Brewer"
+    },
+    {
+        "fga_after": 218,
+        "fga_before": 143,
+        "fga_overall": 489,
+        "fgp_after": 0.481651376146789,
+        "fgp_before": 0.5104895104895105,
+        "fgp_overall": 0.4723926380368098,
+        "name": "Serge Ibaka"
+    },
+    {
+        "fga_after": 51,
+        "fga_before": 40,
+        "fga_overall": 164,
+        "fgp_after": 0.5098039215686274,
+        "fgp_before": 0.425,
+        "fgp_overall": 0.4634146341463415,
+        "name": "Joakim Noah"
+    },
+    {
+        "fga_after": 43,
+        "fga_before": 63,
+        "fga_overall": 586,
+        "fgp_after": 0.3023255813953488,
+        "fgp_before": 0.42857142857142855,
+        "fgp_overall": 0.39590443686006827,
+        "name": "James Harden"
+    },
+    {
+        "fga_after": 89,
+        "fga_before": 79,
+        "fga_overall": 340,
+        "fgp_after": 0.38202247191011235,
+        "fgp_before": 0.43037974683544306,
+        "fgp_overall": 0.4323529411764706,
+        "name": "Taj Gibson"
+    },
+    {
+        "fga_after": 57,
+        "fga_before": 41,
+        "fga_overall": 627,
+        "fgp_after": 0.49122807017543857,
+        "fgp_before": 0.5609756097560976,
+        "fgp_overall": 0.4274322169059011,
+        "name": "Kyle Korver"
+    },
+    {
+        "fga_after": 145,
+        "fga_before": 162,
+        "fga_overall": 695,
+        "fgp_after": 0.43448275862068964,
+        "fgp_before": 0.4506172839506173,
+        "fgp_overall": 0.45179856115107914,
+        "name": "Rudy Gay"
+    },
+    {
+        "fga_after": 185,
+        "fga_before": 228,
+        "fga_overall": 864,
+        "fgp_after": 0.4756756756756757,
+        "fgp_before": 0.41228070175438597,
+        "fgp_overall": 0.41898148148148145,
+        "name": "Josh Smith"
+    },
+    {
+        "fga_after": 189,
+        "fga_before": 189,
+        "fga_overall": 828,
+        "fgp_after": 0.5925925925925926,
+        "fgp_before": 0.4973544973544973,
+        "fgp_overall": 0.5289855072463768,
+        "name": "Al Horford"
+    },
+    {
+        "fga_after": 79,
+        "fga_before": 62,
+        "fga_overall": 834,
+        "fgp_after": 0.3924050632911392,
+        "fgp_before": 0.4032258064516129,
+        "fgp_overall": 0.45443645083932854,
+        "name": "Zach Randolph"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 33,
+        "fga_overall": 436,
+        "fgp_after": 0.42857142857142855,
+        "fgp_before": 0.45454545454545453,
+        "fgp_overall": 0.41743119266055045,
+        "name": "Marvin Williams"
+    },
+    {
+        "fga_after": 78,
+        "fga_before": 81,
+        "fga_overall": 730,
+        "fgp_after": 0.38461538461538464,
+        "fgp_before": 0.35802469135802467,
+        "fgp_overall": 0.39452054794520547,
+        "name": "O.J. Mayo"
+    },
+    {
+        "fga_after": 106,
+        "fga_before": 75,
+        "fga_overall": 504,
+        "fgp_after": 0.5,
+        "fgp_before": 0.49333333333333335,
+        "fgp_overall": 0.4603174603174603,
+        "name": "Darrell Arthur"
+    },
+    {
+        "fga_after": 62,
+        "fga_before": 81,
+        "fga_overall": 884,
+        "fgp_after": 0.43548387096774194,
+        "fgp_before": 0.4074074074074074,
+        "fgp_overall": 0.4106334841628959,
+        "name": "Jamal Crawford"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 28,
+        "fga_overall": 316,
+        "fgp_after": 0.42857142857142855,
+        "fgp_before": 0.42857142857142855,
+        "fgp_overall": 0.3860759493670886,
+        "name": "Maurice Evans"
+    },
+    {
+        "fga_after": 27,
+        "fga_before": 40,
+        "fga_overall": 375,
+        "fgp_after": 0.4444444444444444,
+        "fgp_before": 0.5,
+        "fgp_overall": 0.42933333333333334,
+        "name": "Sam Young"
+    },
+    {
+        "fga_after": 56,
+        "fga_before": 50,
+        "fga_overall": 303,
+        "fgp_after": 0.5,
+        "fgp_before": 0.54,
+        "fgp_overall": 0.40594059405940597,
+        "name": "Tony Allen"
+    },
+    {
+        "fga_after": 49,
+        "fga_before": 36,
+        "fga_overall": 268,
+        "fgp_after": 0.4489795918367347,
+        "fgp_before": 0.3888888888888889,
+        "fgp_overall": 0.47388059701492535,
+        "name": "Jeff Teague"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 102,
+        "fga_overall": 547,
+        "fgp_after": 0.45714285714285713,
+        "fgp_before": 0.4019607843137255,
+        "fgp_overall": 0.4186471663619744,
+        "name": "Gerald Wallace"
+    },
+    {
+        "fga_after": 274,
+        "fga_before": 169,
+        "fga_overall": 1336,
+        "fgp_after": 0.5437956204379562,
+        "fgp_before": 0.5739644970414202,
+        "fgp_overall": 0.5089820359281437,
+        "name": "Dirk Nowitzki"
+    },
+    {
+        "fga_after": 31,
+        "fga_before": 37,
+        "fga_overall": 240,
+        "fgp_after": 0.6129032258064516,
+        "fgp_before": 0.4594594594594595,
+        "fgp_overall": 0.4666666666666667,
+        "name": "Nazr Mohammed"
+    },
+    {
+        "fga_after": 50,
+        "fga_before": 78,
+        "fga_overall": 513,
+        "fgp_after": 0.38,
+        "fgp_before": 0.4230769230769231,
+        "fgp_overall": 0.4405458089668616,
+        "name": "Boris Diaw"
+    },
+    {
+        "fga_after": 89,
+        "fga_before": 54,
+        "fga_overall": 1173,
+        "fgp_after": 0.48314606741573035,
+        "fgp_before": 0.5370370370370371,
+        "fgp_overall": 0.45268542199488493,
+        "name": "Jason Terry"
+    },
+    {
+        "fga_after": 74,
+        "fga_before": 86,
+        "fga_overall": 689,
+        "fgp_after": 0.32432432432432434,
+        "fgp_before": 0.38372093023255816,
+        "fgp_overall": 0.36284470246734396,
+        "name": "Jason Kidd"
+    },
+    {
+        "fga_after": 127,
+        "fga_before": 116,
+        "fga_overall": 685,
+        "fgp_after": 0.5118110236220472,
+        "fgp_before": 0.41379310344827586,
+        "fgp_overall": 0.4802919708029197,
+        "name": "Shawn Marion"
+    },
+    {
+        "fga_after": 73,
+        "fga_before": 69,
+        "fga_overall": 748,
+        "fgp_after": 0.4657534246575342,
+        "fgp_before": 0.36231884057971014,
+        "fgp_overall": 0.3890374331550802,
+        "name": "Stephen Jackson"
+    },
+    {
+        "fga_after": 61,
+        "fga_before": 34,
+        "fga_overall": 205,
+        "fgp_after": 0.32786885245901637,
+        "fgp_before": 0.47058823529411764,
+        "fgp_overall": 0.44878048780487806,
+        "name": "Tyrus Thomas"
+    },
+    {
+        "fga_after": 58,
+        "fga_before": 62,
+        "fga_overall": 435,
+        "fgp_after": 0.39655172413793105,
+        "fgp_before": 0.4032258064516129,
+        "fgp_overall": 0.4298850574712644,
+        "name": "Gerald Henderson"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 72,
+        "fga_overall": 249,
+        "fgp_after": 0.7142857142857143,
+        "fgp_before": 0.6388888888888888,
+        "fgp_overall": 0.6746987951807228,
+        "name": "Tyson Chandler"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 29,
+        "fga_overall": 296,
+        "fgp_after": 0.4,
+        "fgp_before": 0.5862068965517241,
+        "fgp_overall": 0.4391891891891892,
+        "name": "Shaun Livingston"
+    },
+    {
+        "fga_after": 46,
+        "fga_before": 29,
+        "fga_overall": 259,
+        "fgp_after": 0.3695652173913043,
+        "fgp_before": 0.5172413793103449,
+        "fgp_overall": 0.4517374517374517,
+        "name": "DeJuan Blair"
+    },
+    {
+        "fga_after": 118,
+        "fga_before": 112,
+        "fga_overall": 514,
+        "fgp_after": 0.4745762711864407,
+        "fgp_before": 0.4375,
+        "fgp_overall": 0.44163424124513617,
+        "name": "Roy Hibbert"
+    },
+    {
+        "fga_after": 97,
+        "fga_before": 104,
+        "fga_overall": 842,
+        "fgp_after": 0.3402061855670103,
+        "fgp_before": 0.3942307692307692,
+        "fgp_overall": 0.3990498812351544,
+        "name": "Manu Ginobili"
+    },
+    {
+        "fga_after": 50,
+        "fga_before": 42,
+        "fga_overall": 665,
+        "fgp_after": 0.32,
+        "fgp_before": 0.5,
+        "fgp_overall": 0.43609022556390975,
+        "name": "Darren Collison"
+    },
+    {
+        "fga_after": 112,
+        "fga_before": 49,
+        "fga_overall": 467,
+        "fgp_after": 0.4732142857142857,
+        "fgp_before": 0.40816326530612246,
+        "fgp_overall": 0.4518201284796574,
+        "name": "Mike Dunleavy"
+    },
+    {
+        "fga_after": 172,
+        "fga_before": 145,
+        "fga_overall": 1030,
+        "fgp_after": 0.4186046511627907,
+        "fgp_before": 0.4827586206896552,
+        "fgp_overall": 0.42135922330097086,
+        "name": "Danny Granger"
+    },
+    {
+        "fga_after": 47,
+        "fga_before": 35,
+        "fga_overall": 232,
+        "fgp_after": 0.46808510638297873,
+        "fgp_before": 0.6285714285714286,
+        "fgp_overall": 0.5344827586206896,
+        "name": "Josh McRoberts"
+    },
+    {
+        "fga_after": 64,
+        "fga_before": 64,
+        "fga_overall": 542,
+        "fgp_after": 0.5,
+        "fgp_before": 0.453125,
+        "fgp_overall": 0.4575645756457565,
+        "name": "Richard Jefferson"
+    },
+    {
+        "fga_after": 188,
+        "fga_before": 158,
+        "fga_overall": 617,
+        "fgp_after": 0.5053191489361702,
+        "fgp_before": 0.5,
+        "fgp_overall": 0.46029173419773095,
+        "name": "Tim Duncan"
+    },
+    {
+        "fga_after": 31,
+        "fga_before": 59,
+        "fga_overall": 296,
+        "fgp_after": 0.41935483870967744,
+        "fgp_before": 0.423728813559322,
+        "fgp_overall": 0.4358108108108108,
+        "name": "Antonio McDyess"
+    },
+    {
+        "fga_after": 34,
+        "fga_before": 26,
+        "fga_overall": 306,
+        "fgp_after": 0.5588235294117647,
+        "fgp_before": 0.38461538461538464,
+        "fgp_overall": 0.42483660130718953,
+        "name": "Paul George"
+    },
+    {
+        "fga_after": 49,
+        "fga_before": 28,
+        "fga_overall": 525,
+        "fgp_after": 0.4489795918367347,
+        "fgp_before": 0.42857142857142855,
+        "fgp_overall": 0.43238095238095237,
+        "name": "George Hill"
+    },
+    {
+        "fga_after": 34,
+        "fga_before": 49,
+        "fga_overall": 264,
+        "fgp_after": 0.5294117647058824,
+        "fgp_before": 0.5306122448979592,
+        "fgp_overall": 0.5340909090909091,
+        "name": "Nene Hilario"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 33,
+        "fga_overall": 678,
+        "fgp_after": 0.42857142857142855,
+        "fgp_before": 0.5151515151515151,
+        "fgp_overall": 0.4218289085545723,
+        "name": "Chauncey Billups"
+    },
+    {
+        "fga_after": 138,
+        "fga_before": 184,
+        "fga_overall": 1088,
+        "fgp_after": 0.42028985507246375,
+        "fgp_before": 0.4782608695652174,
+        "fgp_overall": 0.4273897058823529,
+        "name": "Carmelo Anthony"
+    },
+    {
+        "fga_after": 309,
+        "fga_before": 291,
+        "fga_overall": 862,
+        "fgp_after": 0.44660194174757284,
+        "fgp_before": 0.436426116838488,
+        "fgp_overall": 0.4582366589327146,
+        "name": "Al Jefferson"
+    },
+    {
+        "fga_after": 46,
+        "fga_before": 48,
+        "fga_overall": 491,
+        "fgp_after": 0.45652173913043476,
+        "fgp_before": 0.5208333333333334,
+        "fgp_overall": 0.4847250509164969,
+        "name": "Arron Afflalo"
+    },
+    {
+        "fga_after": 42,
+        "fga_before": 39,
+        "fga_overall": 716,
+        "fgp_after": 0.38095238095238093,
+        "fgp_before": 0.2564102564102564,
+        "fgp_overall": 0.4064245810055866,
+        "name": "Deron Williams"
+    },
+    {
+        "fga_after": 86,
+        "fga_before": 102,
+        "fga_overall": 661,
+        "fgp_after": 0.5232558139534884,
+        "fgp_before": 0.5098039215686274,
+        "fgp_overall": 0.49924357034795763,
+        "name": "Paul Millsap"
+    },
+    {
+        "fga_after": 78,
+        "fga_before": 73,
+        "fga_overall": 709,
+        "fgp_after": 0.2948717948717949,
+        "fgp_before": 0.410958904109589,
+        "fgp_overall": 0.36530324400564174,
+        "name": "C.J. Miles"
+    },
+    {
+        "fga_after": 36,
+        "fga_before": 38,
+        "fga_overall": 684,
+        "fgp_after": 0.4444444444444444,
+        "fgp_before": 0.42105263157894735,
+        "fgp_overall": 0.4283625730994152,
+        "name": "J.R. Smith"
+    },
+    {
+        "fga_after": 102,
+        "fga_before": 68,
+        "fga_overall": 316,
+        "fgp_after": 0.46078431372549017,
+        "fgp_before": 0.36764705882352944,
+        "fgp_overall": 0.38924050632911394,
+        "name": "Andrei Kirilenko"
+    },
+    {
+        "fga_after": 61,
+        "fga_before": 95,
+        "fga_overall": 628,
+        "fgp_after": 0.4426229508196721,
+        "fgp_before": 0.4421052631578947,
+        "fgp_overall": 0.48089171974522293,
+        "name": "David Lee"
+    },
+    {
+        "fga_after": 124,
+        "fga_before": 83,
+        "fga_overall": 1312,
+        "fgp_after": 0.43548387096774194,
+        "fgp_before": 0.40963855421686746,
+        "fgp_overall": 0.4260670731707317,
+        "name": "Monta Ellis"
+    },
+    {
+        "fga_after": 129,
+        "fga_before": 102,
+        "fga_overall": 883,
+        "fgp_after": 0.5038759689922481,
+        "fgp_before": 0.5294117647058824,
+        "fgp_overall": 0.47451868629671573,
+        "name": "Stephen Curry"
+    },
+    {
+        "fga_after": 164,
+        "fga_before": 202,
+        "fga_overall": 928,
+        "fgp_after": 0.4329268292682927,
+        "fgp_before": 0.400990099009901,
+        "fgp_overall": 0.39655172413793105,
+        "name": "Dorell Wright"
+    },
+    {
+        "fga_after": 44,
+        "fga_before": 52,
+        "fga_overall": 245,
+        "fgp_after": 0.38636363636363635,
+        "fgp_before": 0.46153846153846156,
+        "fgp_overall": 0.40816326530612246,
+        "name": "Vladimir Radmanovic"
+    },
+    {
+        "fga_after": 27,
+        "fga_before": 37,
+        "fga_overall": 437,
+        "fgp_after": 0.1111111111111111,
+        "fgp_before": 0.32432432432432434,
+        "fgp_overall": 0.3890160183066362,
+        "name": "Ryan Gomes"
+    },
+    {
+        "fga_after": 67,
+        "fga_before": 120,
+        "fga_overall": 825,
+        "fgp_after": 0.4925373134328358,
+        "fgp_before": 0.43333333333333335,
+        "fgp_overall": 0.4775757575757576,
+        "name": "Blake Griffin"
+    },
+    {
+        "fga_after": 65,
+        "fga_before": 51,
+        "fga_overall": 508,
+        "fgp_after": 0.4307692307692308,
+        "fgp_before": 0.43137254901960786,
+        "fgp_overall": 0.3956692913385827,
+        "name": "Baron Davis"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 66,
+        "fga_overall": 247,
+        "fgp_after": 0.4,
+        "fgp_before": 0.48484848484848486,
+        "fgp_overall": 0.4574898785425101,
+        "name": "Chris Kaman"
+    },
+    {
+        "fga_after": 34,
+        "fga_before": 74,
+        "fga_overall": 440,
+        "fgp_after": 0.5294117647058824,
+        "fgp_before": 0.36486486486486486,
+        "fgp_overall": 0.3704545454545455,
+        "name": "Randy Foye"
+    },
+    {
+        "fga_after": 37,
+        "fga_before": 34,
+        "fga_overall": 115,
+        "fgp_after": 0.8378378378378378,
+        "fgp_before": 0.7941176470588235,
+        "fgp_overall": 0.8,
+        "name": "DeAndre Jordan"
+    },
+    {
+        "fga_after": 76,
+        "fga_before": 58,
+        "fga_overall": 645,
+        "fgp_after": 0.40789473684210525,
+        "fgp_before": 0.3620689655172414,
+        "fgp_overall": 0.40310077519379844,
+        "name": "Eric Gordon"
+    },
+    {
+        "fga_after": 65,
+        "fga_before": 51,
+        "fga_overall": 708,
+        "fgp_after": 0.4461538461538462,
+        "fgp_before": 0.4117647058823529,
+        "fgp_overall": 0.4194915254237288,
+        "name": "Vince Carter"
+    },
+    {
+        "fga_after": 76,
+        "fga_before": 105,
+        "fga_overall": 611,
+        "fgp_after": 0.2894736842105263,
+        "fgp_before": 0.44761904761904764,
+        "fgp_overall": 0.3698854337152209,
+        "name": "John Wall"
+    },
+    {
+        "fga_after": 69,
+        "fga_before": 62,
+        "fga_overall": 500,
+        "fgp_after": 0.42028985507246375,
+        "fgp_before": 0.45161290322580644,
+        "fgp_overall": 0.42,
+        "name": "Rashard Lewis"
+    },
+    {
+        "fga_after": 122,
+        "fga_before": 120,
+        "fga_overall": 618,
+        "fgp_after": 0.4180327868852459,
+        "fgp_before": 0.38333333333333336,
+        "fgp_overall": 0.4045307443365696,
+        "name": "Andray Blatche"
+    },
+    {
+        "fga_after": 163,
+        "fga_before": 90,
+        "fga_overall": 321,
+        "fgp_after": 0.6012269938650306,
+        "fgp_before": 0.6111111111111112,
+        "fgp_overall": 0.5763239875389408,
+        "name": "JaVale McGee"
+    },
+    {
+        "fga_after": 50,
+        "fga_before": 30,
+        "fga_overall": 589,
+        "fgp_after": 0.46,
+        "fgp_before": 0.43333333333333335,
+        "fgp_overall": 0.45500848896434637,
+        "name": "Kirk Hinrich"
+    },
+    {
+        "fga_after": 220,
+        "fga_before": 178,
+        "fga_overall": 531,
+        "fgp_after": 0.6454545454545455,
+        "fgp_before": 0.5449438202247191,
+        "fgp_overall": 0.60075329566855,
+        "name": "Dwight Howard"
+    },
+    {
+        "fga_after": 77,
+        "fga_before": 78,
+        "fga_overall": 474,
+        "fgp_after": 0.45454545454545453,
+        "fgp_before": 0.5384615384615384,
+        "fgp_overall": 0.4810126582278481,
+        "name": "Brandon Bass"
+    },
+    {
+        "fga_after": 86,
+        "fga_before": 70,
+        "fga_overall": 825,
+        "fgp_after": 0.5348837209302325,
+        "fgp_before": 0.38571428571428573,
+        "fgp_overall": 0.43636363636363634,
+        "name": "Nick Young"
+    },
+    {
+        "fga_after": 83,
+        "fga_before": 75,
+        "fga_overall": 306,
+        "fgp_after": 0.39759036144578314,
+        "fgp_before": 0.48,
+        "fgp_overall": 0.4869281045751634,
+        "name": "Marcin Gortat"
+    },
+    {
+        "fga_after": 110,
+        "fga_before": 49,
+        "fga_overall": 428,
+        "fgp_after": 0.41818181818181815,
+        "fgp_before": 0.42857142857142855,
+        "fgp_overall": 0.39485981308411217,
+        "name": "Ryan Anderson"
+    },
+    {
+        "fga_after": 78,
+        "fga_before": 78,
+        "fga_overall": 585,
+        "fgp_after": 0.2948717948717949,
+        "fgp_before": 0.3076923076923077,
+        "fgp_overall": 0.347008547008547,
+        "name": "Tyreke Evans"
+    },
+    {
+        "fga_after": 96,
+        "fga_before": 100,
+        "fga_overall": 334,
+        "fgp_after": 0.46875,
+        "fgp_before": 0.42,
+        "fgp_overall": 0.437125748502994,
+        "name": "Samuel Dalembert"
+    },
+    {
+        "fga_after": 54,
+        "fga_before": 59,
+        "fga_overall": 190,
+        "fgp_after": 0.5185185185185185,
+        "fgp_before": 0.5932203389830508,
+        "fgp_overall": 0.5368421052631579,
+        "name": "Emeka Okafor"
+    },
+    {
+        "fga_after": 196,
+        "fga_before": 178,
+        "fga_overall": 496,
+        "fgp_after": 0.4846938775510204,
+        "fgp_before": 0.47752808988764045,
+        "fgp_overall": 0.4959677419354839,
+        "name": "Marc Gasol"
+    },
+    {
+        "fga_after": 30,
+        "fga_before": 28,
+        "fga_overall": 163,
+        "fgp_after": 0.5,
+        "fgp_before": 0.39285714285714285,
+        "fgp_overall": 0.4294478527607362,
+        "name": "James Johnson"
+    },
+    {
+        "fga_after": 33,
+        "fga_before": 36,
+        "fga_overall": 631,
+        "fgp_after": 0.30303030303030304,
+        "fgp_before": 0.3888888888888889,
+        "fgp_overall": 0.393026941362916,
+        "name": "Mo Williams"
+    },
+    {
+        "fga_after": 41,
+        "fga_before": 39,
+        "fga_overall": 199,
+        "fgp_after": 0.5365853658536586,
+        "fgp_before": 0.38461538461538464,
+        "fgp_overall": 0.457286432160804,
+        "name": "Jordan Hill"
+    },
+    {
+        "fga_after": 79,
+        "fga_before": 62,
+        "fga_overall": 656,
+        "fgp_after": 0.3670886075949367,
+        "fgp_before": 0.3064516129032258,
+        "fgp_overall": 0.36128048780487804,
+        "name": "Gilbert Arenas"
+    },
+    {
+        "fga_after": 54,
+        "fga_before": 44,
+        "fga_overall": 433,
+        "fgp_after": 0.37037037037037035,
+        "fgp_before": 0.5,
+        "fgp_overall": 0.418013856812933,
+        "name": "Brandon Rush"
+    },
+    {
+        "fga_after": 38,
+        "fga_before": 44,
+        "fga_overall": 552,
+        "fgp_after": 0.39473684210526316,
+        "fgp_before": 0.45454545454545453,
+        "fgp_overall": 0.4746376811594203,
+        "name": "Carlos Boozer"
+    },
+    {
+        "fga_after": 35,
+        "fga_before": 39,
+        "fga_overall": 160,
+        "fgp_after": 0.6,
+        "fgp_before": 0.4358974358974359,
+        "fgp_overall": 0.5,
+        "name": "Kurt Thomas"
+    },
+    {
+        "fga_after": 81,
+        "fga_before": 63,
+        "fga_overall": 322,
+        "fgp_after": 0.35802469135802467,
+        "fgp_before": 0.3968253968253968,
+        "fgp_overall": 0.4161490683229814,
+        "name": "Shawne Williams"
+    },
+    {
+        "fga_after": 45,
+        "fga_before": 41,
+        "fga_overall": 147,
+        "fgp_after": 0.4888888888888889,
+        "fgp_before": 0.36585365853658536,
+        "fgp_overall": 0.4217687074829932,
+        "name": "Ekpe Udoh"
+    },
+    {
+        "fga_after": 87,
+        "fga_before": 56,
+        "fga_overall": 227,
+        "fgp_after": 0.5402298850574713,
+        "fgp_before": 0.6071428571428571,
+        "fgp_overall": 0.5638766519823789,
+        "name": "Andrew Bynum"
+    },
+    {
+        "fga_after": 26,
+        "fga_before": 27,
+        "fga_overall": 185,
+        "fgp_after": 0.5769230769230769,
+        "fgp_before": 0.6666666666666666,
+        "fgp_overall": 0.5459459459459459,
+        "name": "Patrick Patterson"
+    },
+    {
+        "fga_after": 33,
+        "fga_before": 36,
+        "fga_overall": 258,
+        "fgp_after": 0.45454545454545453,
+        "fgp_before": 0.4166666666666667,
+        "fgp_overall": 0.437984496124031,
+        "name": "Kenyon Martin"
+    }
+]
